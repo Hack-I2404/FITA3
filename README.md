@@ -39,7 +39,7 @@
   <li> -Defender como hacer una arranque dual windows linux</li><br>
   <li> -Saps afegir discos</li><br>
   <li> -Validar el software minimo</li><br>
-<H2>Posibles preguntas</H2>
+<H2>Posibles preguntas:</H2>
 <li>- Explica cómo crear el arranque dual.</li><br>
 <li>- Validar que en la máquina se vean los dos discos duros con la capacidad correcta. Preguntar por qué se utilizan esos discos y su capacidad.</li><br>
 <li>- Validar que la máquina estándar sea funcional y contenga todo el software mínimo.</li><br>
